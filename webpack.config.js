@@ -20,7 +20,7 @@ module.exports = {
     new Dotenv(),
     new HtmlWebpackPlugin({
       title: 'Wordle Game',
-      template: './src/index.html',
+      template: 'index.html',
       inject: 'body'
     })
   ],
