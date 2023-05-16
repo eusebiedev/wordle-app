@@ -39,8 +39,6 @@ _This application demonstrates using 2 different APIs, one from Random-Word-API 
 
 ## Known Bugs
 
-* _Gh-Pages 404 error_
-
 * _The second and subsequent time the "New Game" button is clicked to generate a new instance of the wordle game without refreshing the page, the application will display the Error modal popup upon entering a word, regardless if the word is valid or not. Re-entering the same word again, or another word, will cause the application to continue functioning normally._
 
 ## License
